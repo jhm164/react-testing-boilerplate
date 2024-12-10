@@ -16,9 +16,9 @@ module.exports = {
 
 ```
 ### Documentation
-[https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library]
-[https://jestjs.io/docs/getting-started]
-[https://testing-library.com/docs/react-testing-library/intro/]
+- [https://www.digitalocean.com/community/tutorials/how-to-test-a-react-app-with-jest-and-react-testing-library]
+- [https://jestjs.io/docs/getting-started]
+- [https://testing-library.com/docs/react-testing-library/intro/]
 
 
 ### All test cases
