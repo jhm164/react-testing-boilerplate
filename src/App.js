@@ -2,15 +2,17 @@
 import React from 'react';
 // import './App.css';
 // import Login from './components/Login';
-import CardShouse  from './components/UI/CardShouse';
+// import CardShouse  from './components/UI/CardShouse';
+import HexComponent from './components/HexComponent';
 function App() {
   return (
     <div className="App">
     
        
         {/* <Login/> */}
-        <CardShouse />
-      
+        {/* <CardShouse /> */}
+        <HexComponent />
+
     </div>
   );
 }
